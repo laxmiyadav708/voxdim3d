@@ -1,0 +1,19 @@
+[
+  {
+    "id": "2ad04e4c-5d7f-455b-9493-7714a789143a",
+    "userId": "564a14fd-b602-48ce-bc65-3a7eb8468641",
+    "userName": "Laxmi",
+    "userEmail": "natraj.admin@gla.ac.in",
+    "type": "text",
+    "prompt": "a old age women",
+    "category": "Characters",
+    "style": "Realistic",
+    "name": "Laxmi",
+    "notes": "",
+    "referenceLinks": "",
+    "isPublic": true,
+    "status": "pending",
+    "createdAt": "2026-04-24T18:23:25.729Z",
+    "updatedAt": "2026-04-24T18:23:25.729Z"
+  }
+]

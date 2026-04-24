@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: voxdim3d-backend
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: JWT_SECRET
+        generateValue: true
+      - key: JWT_EXPIRES
+        value: 7d
+      - key: FRONTEND_URL
+        value: https://voxdim3d.vercel.app
